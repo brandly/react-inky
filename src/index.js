@@ -39,7 +39,7 @@ export default function inky(elem = '') {
 
     <body>
     <!-- Wrapper for the body of the email -->
-    <table class="body" data-made-with-foundation>
+    <table class="body" width="100%" data-made-with-foundation>
       <tr>
         <!-- The class, align, and <center> tag center the container -->
         <td class="float-center" align="center" valign="top">
